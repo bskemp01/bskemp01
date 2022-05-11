@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-My name is Brian from the United States. I am currently a senior working towards my bachelor degree in Computer Science at Tennessee Technological University. I have no collaborated on any moajor projects as of yet but i will update this README as this occurs. I am however interested in Java, C++, and python coding. I would like to get more experience in other genres as I become familiar with them. 
+My name is Brian from the United States. I have just graduated with a Bachelors in Computer Science.  I have experience with Java, C++, JavaScript, TypeScript, HTML, CSS, Python, and Angular. I completed my first client project with OakRidge National Labs (ORNL) in the creation of a weather archive data retrival tool in May of 2022. You can see the code in my ORNL-Weather-Project Repo. Please feel free to contact me @ bskemp01@gmail.com for any inquiries or even just to say hello. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bskemp01)](https://github.com/anuraghazra/github-readme-stats)
